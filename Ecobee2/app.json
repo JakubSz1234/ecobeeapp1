@@ -1,0 +1,26 @@
+{
+    "id": "eu.ecobee2",
+    "versin": "1.0.0",
+    "compability": ">=5.0.0",
+    "platforms": ["local", "cloud"],
+    "sdk": 3,
+    "brandColor": "#658C2A",
+    "name": {
+        "en": "Ecobee"
+    },
+    "description":{
+        "en": "This ap is new app for Ecobee devices becouse old is unactualizated."
+    },
+    "dependincies": {
+        "net": "*"
+    },
+    "category": [
+        "appliances"
+    ],
+    "tags": {},
+    "permissions": ["homey:manager:api"],
+    "author": {
+        "email": "jakub.szetlak@wp.pl",
+        "name": "Jakub Szetlak"
+    }
+}
